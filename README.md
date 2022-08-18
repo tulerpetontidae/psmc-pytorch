@@ -1,4 +1,4 @@
-# psmc-pyro
+# psmc-pytorch
 Pyro implementation of PSMC model
 
 ### Helpful materials used
